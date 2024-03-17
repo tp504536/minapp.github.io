@@ -7,7 +7,7 @@
 </head>
 <body>
     <div id="main">
-        <img src="https://avatars.dzeninfra.ru/get-zen_doc/1718701/pub_64db74259fa3aa5a31d18306_64db74634116660e0c4db2b5/scale_1200" width="30">
+        <img src="https://avatars.dzeninfra.ru/get-zen_doc/1718701/pub_64db74259fa3aa5a31d18306_64db74634116660e0c4db2b5/scale_1200" width="25%">
         <p>hello</p>
         <button id="buy">купить</button>
     </div>
